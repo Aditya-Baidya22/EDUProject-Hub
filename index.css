@@ -1,0 +1,10 @@
+/* FRONTEND DEVELOPER (Shimanta): Global Tailwind CSS setup */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { 
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  background-color: #f3f4f6; color: #1f2937; line-height: 1.6;
+}
